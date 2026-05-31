@@ -9,6 +9,8 @@
 |  <img src="./image/键帽.png"/>  | [下载](.resume/键帽.html)   |
 |  <img src="./image/雪花.png"/>  | [下载](.resume/雪花.html)   |
 | <img src="./image/机器人.png"/> | [下载](.resume/机器人.html) |
+| <img src="./image/摇杆.png"/> | [下载](.resume/摇杆.html) |
+
 
 ## **贡献与致谢 (Contributing & Credits)**
 
